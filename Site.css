@@ -1,0 +1,21 @@
+/*Para colocar a imagem na tela toda*/
+html,
+body {
+	width: 100%;
+	 height: 100%;
+}
+/*Para colocar a imagem como plano de fundo*/
+body {
+	background-image: url('Plano-de-fundo-Site.png');
+	background-size: cover;
+}
+
+.textoCentral{
+	 background-color: #aaaaaaa6;
+	 height: 175px;
+}
+
+.container{
+	text-align: center;
+	padding: 10px;
+}
